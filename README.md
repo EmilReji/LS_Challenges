@@ -1,3 +1,3 @@
-# LS_Challenges
+# Ruby Challenges
 
-# RB130 is in a seperate repo: https://github.com/EmilReji/RB130
+This repo contains my solutions to the [Ruby Challenges in Launch School](https://github.com/EmilReji/LS_Challenges.git).
